@@ -1,0 +1,7 @@
+index,sourcetype,description,usegroup
+"lame_eventgen","lame_dns",,
+"lame_eventgen","lame_files",,
+"lame_eventgen","lame_http",,
+"lame_eventgen","lame_kerberos",,
+"lame_eventgen","lame_rdp",,
+"lame_eventgen","lame_software",,

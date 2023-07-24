@@ -1,0 +1,37 @@
+[app/ui]
+version = 9.1.0.1
+modtime = 1688706787.983372000
+
+[app/launcher]
+version = 9.1.0.1
+modtime = 1688706787.984587000
+
+[indexes/lame_eventgen]
+owner = admin
+version = 9.1.0.1
+modtime = 1688706838.654940000
+
+[lookups/Sourcetype_Analytics.csv]
+access = read : [ * ], write : [ * ]
+export = system
+owner = admin
+version = 9.1.0.1
+modtime = 1688966043.085298000
+
+[lookups/SourcetypeInfo.csv]
+access = read : [ * ], write : [ * ]
+export = system
+owner = admin
+version = 9.1.0.1
+modtime = 1688966138.836580000
+
+[savedsearches/apiTest1]
+access = read : [ * ], write : [ * ]
+export = none
+owner = admin
+version = 9.1.0.1
+modtime = 1689524562.158939000
+
+[app/install/install_source_checksum]
+version = 9.1.0.1
+modtime = 1690155933.161008000
