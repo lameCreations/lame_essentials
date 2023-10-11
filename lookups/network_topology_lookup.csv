@@ -1,0 +1,4 @@
+description,ip,location
+"non-routable","10.0.0.0/8",internal
+"non-routable","192.168.0.0/16",internal
+"non-routable","172.16.0.0/12",internal
